@@ -41,7 +41,8 @@
 \renewcommand{\headrulewidth}{0pt} %removes fancy style added header line
 \fancyhf{} % clears existing header/footer entries (default page numbering)
 \fancyfoot[R]{\thepage} % sets page number on right side of the footer
-
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{3}
 \begin{document} 
 \setlength{\cftbeforetoctitleskip}{0pt plus 1pt} % sets the space before the table of contents to match sections
 \setlength{\cftbeforeloftitleskip}{0pt plus 1pt} % sets the space before the list of figures to match sections
@@ -72,8 +73,8 @@
             % \vspace{0.8cm}
             \begin{itemize}
                 \item[$ $] BELAL HMEIDAT, 1202295 % removing order bullet to space
-                \item[$ $] Moath Haj, 1202064
-                \item[$ $] Othman Ali, 1202397
+                \item[$ $] Moath HajAli, 1202862
+                \item[$ $] Othman Hijawi, 1202927
             \end{itemize}
             
 
@@ -82,7 +83,7 @@
             \textbf{\large{Supervisor:}}
             \vspace{0.4cm}
             
-            \hspace{\parindent}MOHAMMAD ALKHANAFSAH %adding hspace same length as indentiation to force indent
+            \hspace{\parindent}MOHAMMAD ALKHANAFSEH %adding hspace same length as indentiation to force indent
             \pagebreak
 
     \end{titlepage}
@@ -112,7 +113,7 @@
 
     \section{Background}
         \subsection{History of DoS and DDoS Attacks}
-            DoS attacks have been around since the early days of the internet. Since then, there were many notable incidents involving DDoS. The first DoS attack was in 1974 when a student at the University of Illinois, David Dennis, sent fake requests to the ARPANET network. Morris Worm, 1988, was developed for research purposes but soon a bug caused the code to copy itself everywhere on the network resulting its developer Robert Morris a \$10,000 fine. DoS attacks were also common in 1991 when they were used to attack modern banks. Moreover, DoS had always been utilized in political conflicts since the early days of 1992 in the break up of Yugosavia and the online intifada the following year \cite{history_of_ddos}.
+            DoS attacks have been around since the early days of the internet. Since then, there were many notable incidents involving DDoS. The first DoS attack was in 1974 when a student at the University of Illinois, David Dennis, sent fake requests to the ARPANET network. Morris Worm, 1988, was developed for research purposes but soon a bug caused the code to copy itself everywhere on the network resulting its developer Robert Morris a \$10,000 fine. DoS attacks were also common in 1991 when they were used to attack modern banks. Moreover, DoS had always been utilized in political conflicts since the early days of 1992 in the break up of Yugoslavia and the online intifada the following year \cite{history_of_ddos}.
             The year 1996 was the year is believed to be the year that had the first DDoS attack. It was on Panix, the third oldest ISP in the world \cite{wikipediaDenialofserviceAttack}. The attack was in the form of SYN flood attack, a type of DoS attack that works by sending the server a lot of SYN packets and thus leaves the server with many open ports awaiting ACK packets that never arrive \cite{syn_flood_attack}. It took 36 hours for Panix to recover and they responded with forming Security Trust Groups, anti-DDoS trust group of peers. This attack wasn’t officially a distributed attack though, because prior to the year 1999 all the DDoS attacks were done by having someone log into multiple systems to launch the attack rather than being automated and distributed across many devices. In 1999, Trinoo denial of service tool with remote command and control functionality using master slave setup. This tool causes massive UDP flood which once resulted in completely bringing down the internal network of the University of Minnesota by a Canadian teenager. These were the first attacks, then DDoS evolved to be more sophisticated and larger. In 2001, Code Red Worm attack combined both a worm and DDoS to attack Microsoft IIS web servers and it brought down the White House's website. One of the biggest DDoS attacks to this day \date{\today} was in 2018 on GitHub. It was a 1.35 Tbps attack that lasted for 10 minutes while the platform was unavailable for 5 minutes. Github was also hit in 2015 by a politicly motivated attack after the chinese search platform Baidu was infected and creating a botnet \cite{history_of_ddos}. It was mitigated by Akamai Prolexic service. In 2020, the biggest DDoS attack was on Amazon Web Services. It was a 2.3 Tbps attack that lasted for 3 days. It was mitigated by Arbor Networks service. Amazon's cloud computing division AWS recently experienced a sustained DDoS attack that appears to have lasted for around eight hours \cite{a10networksLargestReported}. AWS does offer its own DDoS mitigation service called Shield Advanced but it was unable to fully stop the attack. \cite{amazonManagedDDoS}.
 
         \subsection{Evolution of DDoS Attacks}
@@ -120,8 +121,8 @@
 
             \begin{figure}[h!]
                 \centering
-                \includegraphics[width=0.8\textwidth]{Images/68e2342a-9807-463e-9bc5-c873082ca2b6-2.jpeg}
-                \caption{Number of DDoS Attacks over the years \cite{microsoftAzureDDoS}}
+                \includegraphics[width=0.8\textwidth]{Images/ddos_evolution.png}
+                \caption{Number of DDoS Attacks over the years \cite{ebraryFundamentalsDDoS}}
                 \label{fig:ddos_evolution}
             \end{figure}
 
@@ -204,7 +205,7 @@
             \item SYN Flood: Floods servers with request packets (SYN), causing resources to be consumed while waiting for responses (ACK).
             \item SYN-ACK Flood: Sends fake (SYN-ACK) responses, causing server resources to be consumed.
             \item ACK Flood: Floods servers with fake (ACK) responses, causing resources to be consumed.
-            \item ACK Frogmentation Flood: Uses fragmented packets to flood server memory during packet reassembly.
+            \item ACK Fragmentation Flood: Uses fragmented packets to flood server memory during packet reassembly.
             \item RST/FIN Flood: Floods servers with fake RST or FIN packets to consume resources.
             \item Fake Multiple Session Flooding via ACK/RST/FIN: Sends multiple fake packets to simulate legitimate traffic and drain server resources.
             
@@ -366,15 +367,15 @@
 
 
                     \section{Trends and Challenges}
-                    DDoS attacks are getting more powerful and tricky. Hackers are using more devices like IoT gadgets, which often have weak security, to launch attacks. They're also targeting specific weaknesses in applications, making it harder to defend against these attacks. In the future, attackers might even use AI to make their attacks smarter.
 
-                    Stopping these advanced DDoS attacks is tough. It's hard to tell apart good and bad internet traffic now that attacks are so complex. Defending against big attacks also costs a lot of money and needs a lot of computer power, which smaller companies might not have. Plus, stopping these attacks means everyone, from internet providers to businesses, has to work together, and that can be tricky without rules everyone follows.
+                    DDoS attacks are becoming more powerful and sophisticated. Attackers are using more devices such as IoT devices and tools to launch attacks and targeting specific vulnerabilities in applications, making it more difficult and complex to defend against these attacks. In the future, attackers may use artificial intelligence to make their attacks more powerful and intelligent.
+
+                    Stopping advanced denial-of-service attacks has become more difficult and complex. It’s hard to distinguish between good and bad internet traffic now that attacks have become so sophisticated. Defending against large attacks is expensive and can require a lot of computing resources that small businesses may lack. Stopping these attacks means everyone from internet providers to companies has to work together, and that’s hard to do without rules and policies that everyone follows.
                     
-                    There are legal concerns too. Trying to track down attackers can raise privacy worries. We need clear laws to guide how we handle these situations. And new software bugs, called zero-day vulnerabilities, make these attacks even harder to stop. On top of that, as quantum computers get better, attackers might use them to break into systems even more easily. We need to keep researching new ways to stay safe from these threats.
-
+                    There are legal concerns. Trying to track or eavesdrop on attackers could pose a privacy risk. New software bugs or unpatched vulnerabilities make it difficult to protect against these attacks. We need to continue to find new ways to stay safe from these risks and threats, and clear laws to guide how we deal with these situations.
 
                     \section{Conclusion}
-                    DDoS attacks are a common and effective way to disrupt online services. They can be used for many reasons, from revenge to extortion. These attacks are getting more powerful and harder to stop. To protect against them, companies need to monitor their networks, have a plan for when an attack happens, and use the right tools to stop them. As technology gets better, attackers will keep finding new ways to launch DDoS attacks. We need to keep researching and working together to stay safe from these threats.
+                    DDoS attacks are a common and effective way to disrupt online services. They can be used for many reasons, from revenge to extortion. These attacks are getting more powerful and harder to stop. To protect against them, companies need to monitor their networks, have a plan for when an attack happens, and use the right tools to stop them. Users should also be wary of opening links that may infect their devices and help initiate DDoS attack. As technology gets better, attackers will keep finding new ways to launch DDoS attacks. Further researching and collaboration is necessary to stay safe from DDoS threats.
 
 
 

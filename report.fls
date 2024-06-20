@@ -163,9 +163,9 @@ INPUT ./report.lot
 INPUT ./report.lot
 INPUT report.lot
 OUTPUT report.lot
-INPUT ./Images/68e2342a-9807-463e-9bc5-c873082ca2b6-2.jpeg
-INPUT ./Images/68e2342a-9807-463e-9bc5-c873082ca2b6-2.jpeg
-INPUT ./Images/68e2342a-9807-463e-9bc5-c873082ca2b6-2.jpeg
+INPUT ./Images/ddos_evolution.png
+INPUT ./Images/ddos_evolution.png
+INPUT ./Images/ddos_evolution.png
 INPUT report.aux
 INPUT report.run.xml
 OUTPUT report.run.xml

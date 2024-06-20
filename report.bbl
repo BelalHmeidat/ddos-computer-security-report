@@ -183,27 +183,13 @@
       \field{note}{[Accessed 20-06-2024]}
       \field{title}{{M}anaged {D}{D}o{S} protection – {A}{W}{S} {S}hield {F}eatures – {A}mazon {W}eb {S}ervices --- aws.amazon.com}
     \endentry
-    \entry{microsoftAzureDDoS}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=0dd55076eae92f632584efce14a3f025}{%
-           family={Azure},
-           familyi={A\bibinitperiod},
-           given={Microsoft},
-           giveni={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{0dd55076eae92f632584efce14a3f025}
-      \strng{fullhash}{0dd55076eae92f632584efce14a3f025}
-      \strng{bibnamehash}{0dd55076eae92f632584efce14a3f025}
-      \strng{authorbibnamehash}{0dd55076eae92f632584efce14a3f025}
-      \strng{authornamehash}{0dd55076eae92f632584efce14a3f025}
-      \strng{authorfullhash}{0dd55076eae92f632584efce14a3f025}
+    \entry{ebraryFundamentalsDDoS}{misc}{}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://azure.microsoft.com/en-us/blog/azure-ddos-protection-2021-q3-and-q4-ddos-attack-trends/}}
+      \field{howpublished}{\url{https://ebrary.net/189499/computer_science/fundamentals_ddos_attack_evolution_challenges}}
       \field{note}{[Accessed 20-06-2024]}
-      \field{title}{{A}zure {D}{D}o{S} {P}rotection—2021 {Q}3 and {Q}4 {D}{D}o{S} attack trends | {M}icrosoft {A}zure {B}log --- azure.microsoft.com}
+      \field{title}{{F}undamentals of {D}{D}o{S} {A}ttack: {E}volution and {C}hallenges --- ebrary.net}
     \endentry
     \entry{pavithra2014comprehensive}{article}{}
       \name{author}{3}{}{%

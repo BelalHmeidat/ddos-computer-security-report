@@ -5,17 +5,17 @@
 \contentsline {subsection}{\numberline {2.3}Literature Review}{3}{}%
 \contentsline {section}{\numberline {3}Types and Mechanisms}{3}{}%
 \contentsline {subsection}{\numberline {3.1}Volumetric DDoS Attacks}{5}{}%
-\contentsline {subsubsection}{UDP Flood Attacks}{5}{}%
-\contentsline {subsubsection}{CharGEN Flood Attacks}{6}{}%
-\contentsline {subsubsection}{ICMP (Ping) Flood Attacks}{6}{}%
-\contentsline {subsubsection}{ICMP Fragmentation Flood}{6}{}%
-\contentsline {subsubsection}{Malicious Application Attack}{7}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}UDP Flood Attacks}{5}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}CharGEN Flood Attacks}{6}{}%
+\contentsline {subsubsection}{\numberline {3.1.3}ICMP (Ping) Flood Attacks}{6}{}%
+\contentsline {subsubsection}{\numberline {3.1.4}ICMP Fragmentation Flood}{6}{}%
+\contentsline {subsubsection}{\numberline {3.1.5}Malicious Application Attack}{7}{}%
 \contentsline {subsection}{\numberline {3.2}Protocol DDoS Attacks}{7}{}%
 \contentsline {subsection}{\numberline {3.3}Application Layer DDoS Attacks}{8}{}%
 \contentsline {subsection}{\numberline {3.4}Other DDoS Attacks}{9}{}%
-\contentsline {subsubsection}{Advanced Persistent DoS (APDoS)}{9}{}%
-\contentsline {subsubsection}{Multi-vector attacks}{9}{}%
-\contentsline {subsubsection}{Zero-day DDoS attacks}{9}{}%
+\contentsline {subsubsection}{\numberline {3.4.1}Advanced Persistent DoS (APDoS)}{9}{}%
+\contentsline {subsubsection}{\numberline {3.4.2}Multi-vector attacks}{9}{}%
+\contentsline {subsubsection}{\numberline {3.4.3}Zero-day DDoS attacks}{9}{}%
 \contentsline {subsection}{\numberline {3.5}Botnets}{9}{}%
 \contentsline {section}{\numberline {4}Threats and Risks}{10}{}%
 \contentsline {section}{\numberline {5}Counter Measures and Mitigation}{12}{}%

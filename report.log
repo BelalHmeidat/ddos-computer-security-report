@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.5)  20 JUN 2024 22:26
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.5)  20 JUN 2024 23:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -482,26 +482,26 @@ Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
  (./report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 45.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 46.
  (/usr/local/texlive/2023basic/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -511,57 +511,57 @@ Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 45.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 45.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 45.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 45.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 45.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 45.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 45.
-LaTeX Font Info:    Redeclaring math accent \check on input line 45.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 45.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 45.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 45.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 45.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 45.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 46.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 46.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 46.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 46.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 46.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 46.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 46.
+LaTeX Font Info:    Redeclaring math accent \check on input line 46.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 46.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 46.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 46.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 46.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 46.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 45.
+(Font)              `operators' in the math version `normal' on input line 46.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 45.
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 46.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 45.
+(Font)              `operators' in the math version `bold' on input line 46.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 45.
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 46.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on input line 45.
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line 45.
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 45.
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 45.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 45.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 46.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 45.
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input line 45.
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 45.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 46.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 45.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 46.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  (/usr/local/texlive/2023basic/texmf-dist/tex/latex/biblatex/lbx/english.lbx
@@ -576,8 +576,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'report.bbl' found.
  (./report.bbl)
-Package biblatex Info: Reference section=0 on input line 45.
-Package biblatex Info: Reference segment=0 on input line 45.
+Package biblatex Info: Reference section=0 on input line 46.
+Package biblatex Info: Reference segment=0 on input line 46.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -616,11 +616,11 @@ Package biblatex Info: Reference segment=0 on input line 45.
 File: ./Images/Birzeit_Logo.png Graphic file (type bmp)
 <./Images/Birzeit_Logo.png>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 74.
+(Font)              <12> on input line 75.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 74.
+(Font)              <8> on input line 75.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 74.
+(Font)              <6> on input line 75.
 [1
 
 ] [1] (./report.toc)
@@ -636,630 +636,630 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout6 = `report.lot'.
 
  [3] [1] [2]
-File: Images/68e2342a-9807-463e-9bc5-c873082ca2b6-2.jpeg Graphic file (type bmp)
-<Images/68e2342a-9807-463e-9bc5-c873082ca2b6-2.jpeg>
+File: Images/ddos_evolution.png Graphic file (type bmp)
+<Images/ddos_evolution.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 []|\TU/TimesNewRoman(0)/b/n/12 Paul Bar-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 \TU/TimesNewRoman(0)/b/n/12 ford and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 []|\TU/TimesNewRoman(0)/b/n/12 Pavithra,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 \TU/TimesNewRoman(0)/b/n/12 KC and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 \TU/TimesNewRoman(0)/b/n/12 Shetty,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 \TU/TimesNewRoman(0)/b/n/12 Nagesh,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 []|\TU/TimesNewRoman(0)/b/n/12 A comprehen-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 \TU/TimesNewRoman(0)/b/n/12 sive study of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 \TU/TimesNewRoman(0)/b/n/12 distributed de-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 \TU/TimesNewRoman(0)/b/n/12 nial of service
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 \TU/TimesNewRoman(0)/b/n/12 attacks and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 \TU/TimesNewRoman(0)/b/n/12 defense mecha-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 []|\TU/TimesNewRoman(0)/b/n/12 Mirkovic,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 \TU/TimesNewRoman(0)/b/n/12 J., Prier,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 145--145
+Underfull \hbox (badness 10000) in paragraph at lines 146--146
 \TU/TimesNewRoman(0)/b/n/12 Attacks at the
  []
 
 [3] [4] [5] [6] [7] [8]
-Overfull \hbox (1.83528pt too wide) in paragraph at lines 272--272
+Overfull \hbox (1.83528pt too wide) in paragraph at lines 273--273
 []|\TU/TimesNewRoman(0)/b/n/12 Architecture| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 []|\TU/TimesNewRoman(0)/b/n/12 Control
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/b/n/12 Mecha-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 []|\TU/TimesNewRoman(0)/b/n/12 DDoS Ca-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 []|\TU/TimesNewRoman(0)/m/n/12 Primarily
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 used for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 information
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 theft and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 espionage.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 form DDoS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 []|\TU/TimesNewRoman(0)/m/n/12 Centralized
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 C&C archi-
  []
 
 
-Underfull \hbox (badness 6559) in paragraph at lines 272--272
+Underfull \hbox (badness 6559) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 tecture with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 a modular
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 []|\TU/TimesNewRoman(0)/m/n/12 Initially
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 IRC-based,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 later ver-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 sions use
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 HTTP for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 []|\TU/TimesNewRoman(0)/m/n/12 Exploits
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 software
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 vulnerabil-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 ities and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 uses social
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 to flood
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 targets with
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 traffic, al-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 though not
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 primarily
  []
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 272--272
+Underfull \hbox (badness 1142) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 designed for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 []|\TU/TimesNewRoman(0)/m/n/12 Designed
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 for launch-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 ing DDoS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 attacks and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 other basic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 malicious
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 []|\TU/TimesNewRoman(0)/m/n/12 Script-based,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 often using
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 lightweight,
  []
 
 
-Underfull \hbox (badness 2735) in paragraph at lines 272--272
+Underfull \hbox (badness 2735) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 and easy to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 []|\TU/TimesNewRoman(0)/m/n/12 IRC-based
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 C&C for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 real-time
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 communica-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 []|\TU/TimesNewRoman(0)/m/n/12 Scans net-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 works for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 vulnerabili-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 weak pass-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 words for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 []|\TU/TimesNewRoman(0)/m/n/12 Commonly
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 used for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 large-scale
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 DDoS at-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 tacks due
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 to ease of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 deployment
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 []|\TU/TimesNewRoman(0)/m/n/12 Versatile
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 botnet ca-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 pable of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 various
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 malicious
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 activities
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 including
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 []|\TU/TimesNewRoman(0)/m/n/12 Modular
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 framework,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 cross-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 platform
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 compatibil-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 []|\TU/TimesNewRoman(0)/m/n/12 Uses both
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 IRC and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 HTTP for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 command
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 nerabilities
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 and uses
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 brute force
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 attacks on
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 FTP and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 []|\TU/TimesNewRoman(0)/m/n/12 Can con-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 duct DDoS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 attacks
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 while also
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 performing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 spamming
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 and phish-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 []|\TU/TimesNewRoman(0)/m/n/12 Highly so-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 phisticated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 and versa-
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 272--272
+Underfull \hbox (badness 1132) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 of malicious
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 activities
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 including
  []
 
 
-Underfull \hbox (badness 1742) in paragraph at lines 272--272
+Underfull \hbox (badness 1742) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 ular, written
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 an object-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 oriented
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 []|\TU/TimesNewRoman(0)/m/n/12 Supports
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 multi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 ple C&C
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 protocols
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 including
  []
 
 
-Underfull \hbox (badness 4543) in paragraph at lines 272--272
+Underfull \hbox (badness 4543) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 IRC, HTTP,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 []|\TU/TimesNewRoman(0)/m/n/12 Exploits
  []
 
 
-Underfull \hbox (badness 4582) in paragraph at lines 272--272
+Underfull \hbox (badness 4582) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 various vul-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 nerabilities
  []
 
 
-Underfull \hbox (badness 4108) in paragraph at lines 272--272
+Underfull \hbox (badness 4108) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 in Windows
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 []|\TU/TimesNewRoman(0)/m/n/12 Known for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 its robust
  []
 
 
-Underfull \hbox (badness 1968) in paragraph at lines 272--272
+Underfull \hbox (badness 1968) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 DDoS capa-
  []
 
 
-Underfull \hbox (badness 6944) in paragraph at lines 272--272
+Underfull \hbox (badness 6944) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 bilities, can
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 volumetric
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 and appli-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
 \TU/TimesNewRoman(0)/m/n/12 cation layer
  []
 
@@ -1267,19 +1267,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 272--272
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [9] [10] [11] [12] [13] [14] [15] [16]
-Overfull \hbox (11.14195pt too wide) in paragraph at lines 384--384
+Overfull \hbox (11.14195pt too wide) in paragraph at lines 385--385
 []\TU/TimesNewRoman(0)/m/it/12 The History of DDoS and DoS\TU/TimesNewRoman(0)/m/n/12 . $[][][][][] [] [] [] [][][] [] [][][][][] [] [][][] [] [][][][] [][] [][][][][][] [][] [][][][][][][][][][][] [][]
+ []
+
+
+Overfull \hbox (11.5878pt too wide) in paragraph at lines 385--385
+[][][][][][] [] [][][] [] [][][][][][] [] [][][][][][][][] [] [][][][][][][] [] [][][][][][][][][][][][] [] [][][][] [] [][][][][][] [] [][][][][][][][][] []
  []
 
 [17
 
 ]
-Overfull \hbox (5.47751pt too wide) in paragraph at lines 384--384
+Overfull \hbox (5.47751pt too wide) in paragraph at lines 385--385
 []\TU/TimesNewRoman(0)/m/n/12 Chad Kime. \TU/TimesNewRoman(0)/m/it/12 Complete Guide to the Types of DDoS Attacks — esecurityplanet.com\TU/TimesNewRoman(0)/m/n/12 . $[][][][][] []
  []
 
 
-Overfull \hbox (17.99637pt too wide) in paragraph at lines 384--384
+Overfull \hbox (17.99637pt too wide) in paragraph at lines 385--385
 []\TU/TimesNewRoman(0)/m/n/12 CloudFlare. \TU/TimesNewRoman(0)/m/it/12 How to prevent DDoS attacks | Methods and tools\TU/TimesNewRoman(0)/m/n/12 . $[][][][][] [] [] [] [][][] [] [][][][][][][][][][] []
  []
 
@@ -1293,12 +1298,12 @@ Package logreq Info: Writing requests to 'report.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 14739 strings out of 476447
- 321637 string characters out of 5793880
+ 14738 strings out of 476447
+ 321422 string characters out of 5793880
  1936186 words of memory out of 5000000
  36499 multiletter control sequences out of 15000+600000
  560997 words of font info for 69 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  79i,11n,93p,2254b,4726s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on report.xdv (23 pages, 393072 bytes).
+Output written on report.xdv (23 pages, 400652 bytes).
