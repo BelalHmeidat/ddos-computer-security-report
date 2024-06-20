@@ -9,7 +9,9 @@
 \usepackage{fancyhdr} % package used to customize headers and footers
 \usepackage{wrapfig} % used to wrap text around figures
 \usepackage{tocloft} % used to add spaces before table of contents
-\usepackage{biblatex} % used to add bibliography
+\usepackage[sorting=none]{biblatex} % package used to add bibliographies
+\usepackage[margin=1in]{geometry} % package used to change the margins
+
 
 
 \setstretch{1.5} % setting the spacing between the lines to 1.5
@@ -19,7 +21,6 @@
 
 % adding bibliographies here
 \addbibresource{biblio.bib}
-
 % images directory path for figures and logos
 \graphicspath{ {./Images} }
 
@@ -103,9 +104,9 @@
     \setcounter{page}{1}
 
     \section{Introduction}
-        DDoS or Distributed Denial of Service constitutes a common type of cyber attack and a cyber crime that aims to make a network resource or service unavailable by flooding the network with fake requests from many different sources rendering it unreachable to legitimate users. The damage caused can be temporary or permanent. It works by flooding a network server traffic in an attempt to overwhelm it and exhaust its communication resources. DDoS attack is an evolution of DoS attack (Denial of Service attack) which also makes the server unavailable through fake or specialized faulty requests. DDoS attack akin to to a DoS attack, disables the availability of the system by sending faulty requests. Unlike DoS where the source of attack is a single point, DDoS attacks source of attack are many different points. This makes it harder to mitigate than DoS attacks as it is hard to block all sources of attack. These different sources of attack are called botnets or zombie netwoks. They are the sources that send fake traffic and operate on different devices from different IPs and geolocations. These botnets can run on legitimate user devices that were infected by a malware. The botnets have different families such as Agobot, SDBot, SpyBot, and GT Bot \cite{10.1007/978-0-387-44599-1_8} and each family can have many different variants. \cite{ddos_evolution}.
-        DDoS attacks damage can be temporary or permanent. They might cause a vendor website to go down effectivly causing them to lose a lot of sale profit for the whole period affected by the attack. They might bring down the servers of a whole company disabling it from providing services that can be critical. This is why it is important to understand such attack and how to mitigate it.
-        DDoS attack has different types depending on the infrastructure it targets and the vulnerabilities it exploits %TODO: add vulnerabilities and types of DDoS attacks
+        DDoS or Distributed Denial of Service constitutes a common type of cyber attack and a cyber crime that aims to make a network resource or service unavailable by flooding the network with fake requests from many different sources rendering it unreachable to legitimate users. The damage caused can be temporary or permanent. It works by flooding a network server traffic in an attempt to overwhelm it and exhaust its communication resources. DDoS attack is an evolution of DoS attack (Denial of Service attack) which also makes the server unavailable through fake or specialized faulty requests. DDoS attack akin to to a DoS attack, disables the availability of the system by sending faulty requests. Unlike DoS where the source of attack is a single point, DDoS attacks source of attack are many different points. This makes it harder to mitigate than DoS attacks as it is hard to block all sources of attack. These different sources of attack are called botnets or zombie networks. They are the sources that send fake traffic and operate on different devices from different IPs and geolocations. These botnets can run on legitimate user devices that were infected by a malware. The botnets have different families such as Agobot, SDBot, SpyBot, and GT Bot \cite{10.1007/978-0-387-44599-1_8} and each family can have many different variants. \cite{ddos_evolution}.
+        DDoS attacks damage can be temporary or permanent. They might cause a vendor website to go down effectively causing them to lose a lot of sale profit for the whole period affected by the attack. They might bring down the servers of a whole company disabling it from providing services that can be critical. This is why it is important to understand such attack and how to mitigate it.
+        DDoS attack has different types depending on the infrastructure it targets and the vulnerabilities it exploits. The most common types are volumetric, protocol, and application attacks. 
         DDoS attacks used by cyber criminals, hacktivists, and even governments to take down websites, services, and even whole networks. They are used to extort money, exert revenge, take down competition, or even take down a whole country's internet infrastructure.
         To mitigate DDoS attacks, different such as using firewalls, load balancers, and intrusion detection systems. These systems can detect and block fake traffic before it reaches the server. They can also detect and block botnets. There are also services that can be used to mitigate DDoS attacks such as Cloudflare, Akamai, and Arbor Networks. These services can detect and block fake traffic before it reaches the server. They can also detect and block botnets.
 
@@ -116,25 +117,35 @@
 
         \subsection{Evolution of DDoS Attacks}
             DDoS attacks have evolved to be larger and more sophisticated. They have dramatically evolved from 200 Mbps \cite{ddos_evolution} of the aforementioned Code Red attack to the 2.3 Tpbs attack on AWS. They also became more sophisticated as the botnets used also evolved. In their paper about DDoS Evolution \cite{ddos_evolution}, Paul Barford and Vinod Yegneswaran talk about these botnets evolutions, namely evolution for SpyBots, GT Bot, SD Bot, and Agobot, from the architecture of the botnets, botnets control, botnets propagation mechanisms that they use to find new hosts to the techniques, vulnerabilities they exploit, malware delivery mechanisms, to deception mechanisms. 
-            \subsubsection{SpyBots}
-            SpyBots are a family of botnets known for their focus on stealth and information theft. They have evolved to include various functionalities to evade detection and control infected machines remotely.
+
+            \begin{figure}[h!]
+                \centering
+                \includegraphics[width=0.8\textwidth]{Images/68e2342a-9807-463e-9bc5-c873082ca2b6-2.jpeg}
+                \caption{Number of DDoS Attacks over the years \cite{microsoftAzureDDoS}}
+                \label{fig:ddos_evolution}
+            \end{figure}
 
             \subsection{Literature Review}
-                \begin{table}[h!]
+
+            \begin{spacing}{1}
+                \begin{table}
                     \centering
-                    \begin{tabularx}{\textwidth}{|X|X|X|}
+                    \label{tab:litterature_review}
+                    \caption{Literature Review}
+                    \begin{tabularx}{\linewidth}{|p{2cm}|p{3cm}|X|}
                         \hline
                         \textbf{Author} & \textbf{Title} & \textbf{Summary} \\
                         \hline
                         \textbf{Paul Barford and Vinod Yegneswaran} & \textbf{An Inside Look at Botnets} \cite{10.1007/978-0-387-44599-1_8} & This article provided very detailed and valuable information about the different types of botnets, the architecture of the botnets, botnets control, botnets propagation mechanisms that they use to find new hosts to the techniques, vulnerabilities they exploit, malware delivery mechanisms, to deception mechanisms in addition to how they evolved.\\
                         \hline
-                        \textbf{Zargar, S. T., Joshi, J., & Tipper, D} & \textbf{A comprehensive study of distributed denial of service attacks and defense mechanisms} & This paper presents a study on DDoS, its different types and the mechanisms used to prevent them. The authors classify these attacks based on the targeted protocol layers and discuss traditional and modern defense methods, anomaly detection and hybrid solutions. This paper emphasizes the need for automated defense mechanisms and highlights the importance of integrating machine learning techniques for effective and robust solutions. \\
+                        \textbf{Pavithra, KC and Shetty, Snitha and Nagesh, HR} & \textbf{A comprehensive study of distributed denial of service attacks and defense mechanisms} \cite{pavithra2014comprehensive} & This paper presents a study on DDoS, its different types and the mechanisms used to prevent them. The authors classify these attacks based on the targeted protocol layers and discuss traditional and modern defense methods, anomaly detection and hybrid solutions. This paper emphasizes the need for automated defense mechanisms and highlights the importance of integrating machine learning techniques for effective and robust solutions. \\
                         \hline
-                        \textbf{Mirkovic, J., Prier, G., & Reiher} & \textbf{Attacking DDoS Attacks at the Source} \cite{1181418} & This paper focuses on strategies used to mitigate DDoS attacks by targeting the sources of malicious traffic. The authors propose a comprehensive framework to detect and stop DDoS attacks as close to their sources as possible. They discuss the implementation of tracking mechanisms to identify attack sources, the deployment of filtering techniques to block malicious traffic, and collaboration among ISPs to enhance the effectiveness of these measures. The study also explores the challenges associated with source-based mitigation, such as the possibility of false positives and the need to adopt broad-based defensive measures. The proposed solutions aim to reduce the impact of DDoS attacks by preventing malicious traffic from gathering and reaching the target. \\
+                        \textbf{Mirkovic, J., Prier, G., Reiher} & \textbf{Attacking DDoS Attacks at the Source} \cite{1181418} & This paper focuses on strategies used to mitigate DDoS attacks by targeting the sources of malicious traffic. The authors propose a comprehensive framework to detect and stop DDoS attacks as close to their sources as possible. They discuss the implementation of tracking mechanisms to identify attack sources, the deployment of filtering techniques to block malicious traffic, and collaboration among ISPs to enhance the effectiveness of these measures. The study also explores the challenges associated with source-based mitigation, such as the possibility of false positives and the need to adopt broad-based defensive measures. The proposed solutions aim to reduce the impact of DDoS attacks by preventing malicious traffic from gathering and reaching the target. \\
                         \hline
                     \end{tabularx}
-                    \caption{Literature Review}
-                    \label{tab:lit_review}
+                \end{table}
+            \end{spacing}
+
 
         \section{Types and Mechanisms}
         To prevent these attacks, we must understand and distinguish between the different types of denial of service attacks within the three main categories: volumetric, protocol, and application. However, some attacks fall outside these categories. Attackers may use a combination of techniques to make their attacks more sophisticated.
@@ -238,6 +249,32 @@
             \subsubsection{Zero-day DDoS attacks}
             These attacks occur when attackers discover new vulnerabilities in applications, protocols, or devices and quickly execute a DDoS attack before service providers can patch them.
 
+            \subsection{Botnets}
+            In addition to the different types of attacks and vulnerabilities used, DDoS attacks also differ in the Botnet Types
+            \begin{spacing}{1}
+                
+                \begin{table}[h!]
+                    \centering
+                    \caption{Summary of Different Botnet Types in DDoS}
+                    \label{tab:botnet_summary}
+                    \begin{tabularx}{\textwidth}{|X|X|X|X|X|X|}
+                        \hline
+                        \textbf{Botnet Type} & \textbf{Purpose} & \textbf{Architecture} & \textbf{Control Mechanisms} & \textbf{Propagation} & \textbf{DDoS Capabilities} \\
+                        \hline
+                        \textbf{SpyBots} & Primarily used for information theft and espionage. Can also perform DDoS attacks. & Centralized C\&C architecture with a modular design. & Initially IRC-based, later versions use HTTP for stealth. & Exploits software vulnerabilities and uses social engineering. & Can be used to flood targets with traffic, although not primarily designed for DDoS. \\
+                        \hline
+                        \textbf{GT Bot} & Designed for launching DDoS attacks and other basic malicious activities. & Script-based, often using mIRC script, lightweight, and easy to deploy. & IRC-based C\&C for real-time communication. & Scans networks for vulnerabilities and uses weak passwords for infiltration. & Commonly used for large-scale DDoS attacks due to ease of deployment and control. \\
+                        \hline
+                        \textbf{SD Bot} & Versatile botnet capable of various malicious activities including DDoS. & Modular framework, cross-platform compatibility. & Uses both IRC and HTTP for command and control. & Exploits vulnerabilities and uses brute force attacks on FTP and SSH. & Can conduct DDoS attacks while also performing spamming and phishing. \\
+                        \hline
+                        \textbf{Agobot} & Highly sophisticated and versatile, used for a wide range of malicious activities including DDoS. & Highly modular, written in C++ with an object-oriented design. & Supports multiple C\&C protocols including IRC, HTTP, and P2P. & Exploits various vulnerabilities in Windows services. & Known for its robust DDoS capabilities, can perform both volumetric and application layer attacks. \\
+                        \hline
+                    \end{tabularx}
+                    
+                \end{table}
+                
+            \end{spacing}    
+
         \section{Threats and Risks}
             The DDoS attack can expose a huge risk to the target, because it is very easy and inexpensive to execute and they can cost an organization millions of dollars in costs, lost revenue, lost productivity, loss of market share, and a huge problem to the brand’s reputation. Also, the attack can cause severe resource exhaustion, mitigation complexity, complex attribution, and service disruption by attacking the application layer instead of the network layer like most attacks \cite{radwareShieldSquareCaptcha}.
             
@@ -326,7 +363,21 @@
 
                     \subsection{Solutions against DDoS Attacks}
                     One of the most popular and trending DDoS preveting software in our modern day is Cloudflare which is used in ritaj and the itc platform. Cloudflare is a cloud security platform that offers its clients website optimization, security, and performance services. It is basically as a mediator between a website’s server and its end users. Cloudflare's services improve speed, and monitor the traffic reaching the website. Websites and web applications are common these days, but many small businesses and non-tech users have limited access to security policies. Cloudflare helps provide security and performance to these websites. It enhances the security, performance, and reliability of anything connected to the Internet. Cloudflare offers most core features for free and has a simple setup. It works on a freemium model.
-        \section{Botent}
+
+
+                    \section{Trends and Challenges}
+                    DDoS attacks are getting more powerful and tricky. Hackers are using more devices like IoT gadgets, which often have weak security, to launch attacks. They're also targeting specific weaknesses in applications, making it harder to defend against these attacks. In the future, attackers might even use AI to make their attacks smarter.
+
+                    Stopping these advanced DDoS attacks is tough. It's hard to tell apart good and bad internet traffic now that attacks are so complex. Defending against big attacks also costs a lot of money and needs a lot of computer power, which smaller companies might not have. Plus, stopping these attacks means everyone, from internet providers to businesses, has to work together, and that can be tricky without rules everyone follows.
+                    
+                    There are legal concerns too. Trying to track down attackers can raise privacy worries. We need clear laws to guide how we handle these situations. And new software bugs, called zero-day vulnerabilities, make these attacks even harder to stop. On top of that, as quantum computers get better, attackers might use them to break into systems even more easily. We need to keep researching new ways to stay safe from these threats.
+
+
+                    \section{Conclusion}
+                    DDoS attacks are a common and effective way to disrupt online services. They can be used for many reasons, from revenge to extortion. These attacks are getting more powerful and harder to stop. To protect against them, companies need to monitor their networks, have a plan for when an attack happens, and use the right tools to stop them. As technology gets better, attackers will keep finding new ways to launch DDoS attacks. We need to keep researching and working together to stay safe from these threats.
+
+
+
             
 
        \printbibliography

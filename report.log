@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.5)  20 JUN 2024 21:32
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.5)  20 JUN 2024 22:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -439,7 +439,24 @@ Package biblatex Info: ... and expl3
 (biblatex)             setting 'casechanger=expl3'.
  (/usr/local/texlive/2023basic/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
-))
+)) (/usr/local/texlive/2023basic/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2023basic/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count408
+\Gm@cntv=\count409
+\c@Gm@tempcnt=\count410
+\Gm@bindingoffset=\dimen163
+\Gm@wd@mp=\dimen164
+\Gm@odd@mp=\dimen165
+\Gm@even@mp=\dimen166
+\Gm@layoutwidth=\dimen167
+\Gm@layoutheight=\dimen168
+\Gm@layouthoffset=\dimen169
+\Gm@layoutvoffset=\dimen170
+\Gm@dimlist=\toks22
+)
 
 Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
 (fontspec)             New Roman' with options [Ligatures=TeX].
@@ -460,32 +477,31 @@ Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
 (fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
-\@quotelevel=\count408
-\@quotereset=\count409
-
-No file report.aux.
+\@quotelevel=\count411
+\@quotereset=\count412
+ (./report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 44.
-(/usr/local/texlive/2023basic/texmf-dist/tex/latex/base/ts1cmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 45.
+ (/usr/local/texlive/2023basic/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -495,57 +511,57 @@ Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 44.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 44.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 44.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 44.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 44.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 44.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 44.
-LaTeX Font Info:    Redeclaring math accent \check on input line 44.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 44.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 44.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 44.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 44.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 44.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 44.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 44.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 44.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 44.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 44.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 44.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 44.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 44.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 44.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 44.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 44.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 44.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 45.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 45.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 45.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 45.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 45.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 45.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 45.
+LaTeX Font Info:    Redeclaring math accent \check on input line 45.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 45.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 45.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 45.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 45.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 45.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 44.
+(Font)              `operators' in the math version `normal' on input line 45.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 44.
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 45.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 44.
+(Font)              `operators' in the math version `bold' on input line 45.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 44.
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 45.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on input line 44.
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on input line 45.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line 44.
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line 45.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 44.
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 45.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 44.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 45.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 44.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 45.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 44.
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on input line 45.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input line 44.
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input line 45.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 44.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 45.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 44.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 45.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  (/usr/local/texlive/2023basic/texmf-dist/tex/latex/biblatex/lbx/english.lbx
@@ -560,1116 +576,729 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'report.bbl' found.
  (./report.bbl)
-Package biblatex Info: Reference section=0 on input line 44.
-Package biblatex Info: Reference segment=0 on input line 44.
+Package biblatex Info: Reference section=0 on input line 45.
+Package biblatex Info: Reference segment=0 on input line 45.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 File: ./Images/Birzeit_Logo.png Graphic file (type bmp)
 <./Images/Birzeit_Logo.png>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 73.
+(Font)              <12> on input line 74.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 73.
+(Font)              <8> on input line 74.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 73.
- [1
+(Font)              <6> on input line 74.
+[1
 
-] [1]
-No file report.toc.
+] [1] (./report.toc)
 \tf@toc=\write4
 \openout4 = `report.toc'.
 
-[1]
-No file report.lof.
+ [1] (./report.lof)
 \tf@lof=\write5
 \openout5 = `report.lof'.
 
-[2]
-No file report.lot.
+ [2] (./report.lot)
 \tf@lot=\write6
 \openout6 = `report.lot'.
 
-[3] [1] [2] [3]
-Runaway argument?
-argar, S. T., Joshi, J., \unskip \relax \@endpbox \do@row@strut \egroup \ETC.
-/Users/belal/ddos-report/report.tex:135: Forbidden control sequence found while scanning use of \check@nocorr@.
-<inserted text> 
-                \par 
-l.135                     \end{tabularx}
-                                        
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-/Users/belal/ddos-report/report.tex:135: Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.135                     \end{tabularx}
-                                        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-/Users/belal/ddos-report/report.tex:135: Undefined control sequence.
-\text@command ...e \check@nocorr@ #1\nocorr \@nil 
-                                                  \fi \fi 
-l.135                     \end{tabularx}
-                                        
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<recently read> \egroup 
-                        
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-/Users/belal/ddos-report/report.tex:135: Extra }, or forgotten \endgroup.
-<inserted text> }
-                 
-l.135                     \end{tabularx}
-                                        
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-/Users/belal/ddos-report/report.tex:135: Missing } inserted.
-<inserted text> 
-                }
-l.135                     \end{tabularx}
-                                        
-(That makes 100 errors; please try again.) 
+ [3] [1] [2]
+File: Images/68e2342a-9807-463e-9bc5-c873082ca2b6-2.jpeg Graphic file (type bmp)
+<Images/68e2342a-9807-463e-9bc5-c873082ca2b6-2.jpeg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+[]|\TU/TimesNewRoman(0)/b/n/12 Paul Bar-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+\TU/TimesNewRoman(0)/b/n/12 ford and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+[]|\TU/TimesNewRoman(0)/b/n/12 Pavithra,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+\TU/TimesNewRoman(0)/b/n/12 KC and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+\TU/TimesNewRoman(0)/b/n/12 Shetty,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+\TU/TimesNewRoman(0)/b/n/12 Nagesh,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+[]|\TU/TimesNewRoman(0)/b/n/12 A comprehen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+\TU/TimesNewRoman(0)/b/n/12 sive study of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+\TU/TimesNewRoman(0)/b/n/12 distributed de-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+\TU/TimesNewRoman(0)/b/n/12 nial of service
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+\TU/TimesNewRoman(0)/b/n/12 attacks and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+\TU/TimesNewRoman(0)/b/n/12 defense mecha-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+[]|\TU/TimesNewRoman(0)/b/n/12 Mirkovic,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+\TU/TimesNewRoman(0)/b/n/12 J., Prier,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+\TU/TimesNewRoman(0)/b/n/12 Attacks at the
+ []
+
+[3] [4] [5] [6] [7] [8]
+Overfull \hbox (1.83528pt too wide) in paragraph at lines 272--272
+[]|\TU/TimesNewRoman(0)/b/n/12 Architecture| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+[]|\TU/TimesNewRoman(0)/b/n/12 Control
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/b/n/12 Mecha-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+[]|\TU/TimesNewRoman(0)/b/n/12 DDoS Ca-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+[]|\TU/TimesNewRoman(0)/m/n/12 Primarily
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 used for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 information
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 theft and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 espionage.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 form DDoS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+[]|\TU/TimesNewRoman(0)/m/n/12 Centralized
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 C&C archi-
+ []
+
+
+Underfull \hbox (badness 6559) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 tecture with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 a modular
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+[]|\TU/TimesNewRoman(0)/m/n/12 Initially
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 IRC-based,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 later ver-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 sions use
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 HTTP for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+[]|\TU/TimesNewRoman(0)/m/n/12 Exploits
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 software
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 vulnerabil-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 ities and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 uses social
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 to flood
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 targets with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 traffic, al-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 though not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 primarily
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 designed for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+[]|\TU/TimesNewRoman(0)/m/n/12 Designed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 for launch-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 ing DDoS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 attacks and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 other basic
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 malicious
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+[]|\TU/TimesNewRoman(0)/m/n/12 Script-based,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 often using
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 lightweight,
+ []
+
+
+Underfull \hbox (badness 2735) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 and easy to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+[]|\TU/TimesNewRoman(0)/m/n/12 IRC-based
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 C&C for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 real-time
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 communica-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+[]|\TU/TimesNewRoman(0)/m/n/12 Scans net-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 works for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 vulnerabili-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 weak pass-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 words for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+[]|\TU/TimesNewRoman(0)/m/n/12 Commonly
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 used for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 large-scale
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 DDoS at-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 tacks due
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 to ease of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 deployment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+[]|\TU/TimesNewRoman(0)/m/n/12 Versatile
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 botnet ca-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 pable of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 various
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 malicious
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 activities
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 including
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+[]|\TU/TimesNewRoman(0)/m/n/12 Modular
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 framework,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 cross-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 platform
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 compatibil-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+[]|\TU/TimesNewRoman(0)/m/n/12 Uses both
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 IRC and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 HTTP for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 command
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 nerabilities
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 and uses
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 brute force
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 attacks on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 FTP and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+[]|\TU/TimesNewRoman(0)/m/n/12 Can con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 duct DDoS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 attacks
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 while also
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 performing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 spamming
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 and phish-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+[]|\TU/TimesNewRoman(0)/m/n/12 Highly so-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 phisticated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 and versa-
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 of malicious
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 activities
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 including
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 ular, written
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 an object-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 oriented
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+[]|\TU/TimesNewRoman(0)/m/n/12 Supports
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 multi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 ple C&C
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 protocols
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 including
+ []
+
+
+Underfull \hbox (badness 4543) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 IRC, HTTP,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+[]|\TU/TimesNewRoman(0)/m/n/12 Exploits
+ []
+
+
+Underfull \hbox (badness 4582) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 various vul-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 nerabilities
+ []
+
+
+Underfull \hbox (badness 4108) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 in Windows
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+[]|\TU/TimesNewRoman(0)/m/n/12 Known for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 its robust
+ []
+
+
+Underfull \hbox (badness 1968) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 DDoS capa-
+ []
+
+
+Underfull \hbox (badness 6944) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 bilities, can
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 volumetric
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 and appli-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--272
+\TU/TimesNewRoman(0)/m/n/12 cation layer
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9] [10] [11] [12] [13] [14] [15] [16]
+Overfull \hbox (11.14195pt too wide) in paragraph at lines 384--384
+[]\TU/TimesNewRoman(0)/m/it/12 The History of DDoS and DoS\TU/TimesNewRoman(0)/m/n/12 . $[][][][][] [] [] [] [][][] [] [][][][][] [] [][][] [] [][][][] [][] [][][][][][] [][] [][][][][][][][][][][] [][]
+ []
+
+[17
+
+]
+Overfull \hbox (5.47751pt too wide) in paragraph at lines 384--384
+[]\TU/TimesNewRoman(0)/m/n/12 Chad Kime. \TU/TimesNewRoman(0)/m/it/12 Complete Guide to the Types of DDoS Attacks — esecurityplanet.com\TU/TimesNewRoman(0)/m/n/12 . $[][][][][] []
+ []
+
+
+Overfull \hbox (17.99637pt too wide) in paragraph at lines 384--384
+[]\TU/TimesNewRoman(0)/m/n/12 CloudFlare. \TU/TimesNewRoman(0)/m/it/12 How to prevent DDoS attacks | Methods and tools\TU/TimesNewRoman(0)/m/n/12 . $[][][][][] [] [] [] [][][] [] [][][][][][][][][][] []
+ []
+
+[18] (./report.aux)
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+ ***********
+Package logreq Info: Writing requests to 'report.run.xml'.
+\openout1 = `report.run.xml'.
+
+ ) 
 Here is how much of TeX's memory you used:
- 14157 strings out of 476447
- 310678 string characters out of 5793880
- 1930186 words of memory out of 5000000
- 35941 multiletter control sequences out of 15000+600000
- 560981 words of font info for 67 fonts, out of 8000000 for 9000
+ 14739 strings out of 476447
+ 321637 string characters out of 5793880
+ 1936186 words of memory out of 5000000
+ 36499 multiletter control sequences out of 15000+600000
+ 560997 words of font info for 69 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 79i,11n,93p,2253b,1426s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,11n,93p,2254b,4726s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on report.xdv (8 pages, 73916 bytes).
+Output written on report.xdv (23 pages, 393072 bytes).
