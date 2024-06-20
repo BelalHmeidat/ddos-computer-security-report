@@ -1,0 +1,285 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{10.1007/978-0-387-44599-1_8}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=f3fec0c4533d866bd902556373491391}{%
+           family={Barford},
+           familyi={B\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+        {{hash=25626c1314c0a09d8133158ca41b898e}{%
+           family={Yegneswaran},
+           familyi={Y\bibinitperiod},
+           given={Vinod},
+           giveni={V\bibinitperiod}}}%
+      }
+      \name{editor}{5}{}{%
+        {{hash=3d285efd2cbdc38f6ec05d4087ca26a1}{%
+           family={Christodorescu},
+           familyi={C\bibinitperiod},
+           given={Mihai},
+           giveni={M\bibinitperiod}}}%
+        {{hash=940ca4c2de6bee5757bbfe47cbff31bb}{%
+           family={Jha},
+           familyi={J\bibinitperiod},
+           given={Somesh},
+           giveni={S\bibinitperiod}}}%
+        {{hash=25d8958e2d0594cc0730039a7c0f863a}{%
+           family={Maughan},
+           familyi={M\bibinitperiod},
+           given={Douglas},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d458d5f9b64652055bd81d57e4777b22}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Dawn},
+           giveni={D\bibinitperiod}}}%
+        {{hash=d8cebcf1e56cf51e52b71f41b949cba5}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Cliff},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston, MA}%
+      }
+      \list{publisher}{1}{%
+        {Springer US}%
+      }
+      \strng{namehash}{facfd9a2574c7eb933366342fe6530fb}
+      \strng{fullhash}{facfd9a2574c7eb933366342fe6530fb}
+      \strng{bibnamehash}{facfd9a2574c7eb933366342fe6530fb}
+      \strng{authorbibnamehash}{facfd9a2574c7eb933366342fe6530fb}
+      \strng{authornamehash}{facfd9a2574c7eb933366342fe6530fb}
+      \strng{authorfullhash}{facfd9a2574c7eb933366342fe6530fb}
+      \strng{editorbibnamehash}{7fc0c4187becffbabe9ba7f0f7c139f0}
+      \strng{editornamehash}{7fc0c4187becffbabe9ba7f0f7c139f0}
+      \strng{editorfullhash}{4ebe971698113647f720e03fcd907274}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The continued growth and diversification of the Internet has been accompanied by an increasing prevalence of attacks and intrusions [40]. It can be argued, however, that a significant change in motivation for malicious activity has taken place over the past several years: from vandalism and recognition in the hacker community, to attacks and intrusions for financial gain. This shift has been marked by a growing sophistication in the tools and methods used to conduct attacks, thereby escalating the network security arms race.}
+      \field{booktitle}{Malware Detection}
+      \field{isbn}{978-0-387-44599-1}
+      \field{title}{An Inside Look at Botnets}
+      \field{year}{2007}
+      \field{pages}{171\bibrangedash 191}
+      \range{pages}{21}
+    \endentry
+    \entry{ddos_prevention}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=a40a06e8a5436eb21403fc33e2ed40d9}{%
+           family={CloudFlare},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{a40a06e8a5436eb21403fc33e2ed40d9}
+      \strng{fullhash}{a40a06e8a5436eb21403fc33e2ed40d9}
+      \strng{bibnamehash}{a40a06e8a5436eb21403fc33e2ed40d9}
+      \strng{authorbibnamehash}{a40a06e8a5436eb21403fc33e2ed40d9}
+      \strng{authornamehash}{a40a06e8a5436eb21403fc33e2ed40d9}
+      \strng{authorfullhash}{a40a06e8a5436eb21403fc33e2ed40d9}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.cloudflare.com/learning/ddos/how-to-prevent-ddos-attacks/}}
+      \field{note}{[Accessed 20-06-2024]}
+      \field{title}{{H}ow to prevent {D}{D}o{S} attacks | {M}ethods and tools}
+    \endentry
+    \entry{corero}{misc}{}
+      \field{sortinit}{c}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.corero.com/the-damaging-impacts-of-ddos-attacks/}}
+      \field{note}{[Accessed 20-06-2024]}
+      \field{title}{corero.com}
+    \endentry
+    \entry{impervaDDoSAttack}{misc}{}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.imperva.com/learn/ddos/ddos-attacks/}}
+      \field{note}{[Accessed 20-06-2024]}
+      \field{title}{{D}{D}o{S} {A}ttack {T}ypes \& {M}itigation {M}ethods | {I}mperva --- imperva.com}
+    \endentry
+    \entry{kentikDDoSDetection}{misc}{}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.kentik.com/kentipedia/ddos-detection/}}
+      \field{note}{[Accessed 20-06-2024]}
+      \field{title}{{D}{D}o{S} {D}etection --- kentik.com}
+    \endentry
+    \entry{wikipediaDenialofserviceAttack}{misc}{}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{ https://en.wikipedia.org/wiki/Denial-of-service_attack}}
+      \field{note}{[Accessed 20-06-2024]}
+      \field{title}{{D}enial-of-service attack - {W}ikipedia --- en.wikipedia.org}
+    \endentry
+    \entry{esecurityplanetCompleteGuide}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=dc98d1deea3ac30f0d88efb3eeac24bf}{%
+           family={Kime},
+           familyi={K\bibinitperiod},
+           given={Chad},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{dc98d1deea3ac30f0d88efb3eeac24bf}
+      \strng{fullhash}{dc98d1deea3ac30f0d88efb3eeac24bf}
+      \strng{bibnamehash}{dc98d1deea3ac30f0d88efb3eeac24bf}
+      \strng{authorbibnamehash}{dc98d1deea3ac30f0d88efb3eeac24bf}
+      \strng{authornamehash}{dc98d1deea3ac30f0d88efb3eeac24bf}
+      \strng{authorfullhash}{dc98d1deea3ac30f0d88efb3eeac24bf}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.esecurityplanet.com/networks/types-of-ddos-attacks/}}
+      \field{note}{[Accessed 20-06-2024]}
+      \field{title}{{C}omplete {G}uide to the {T}ypes of {D}{D}o{S} {A}ttacks --- esecurityplanet.com}
+    \endentry
+    \entry{ddos_evolution}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0f6be4ddb8f566623547aa235a87c84f}{%
+           family={Nazario},
+           familyi={N\bibinitperiod},
+           given={Jose},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{0f6be4ddb8f566623547aa235a87c84f}
+      \strng{fullhash}{0f6be4ddb8f566623547aa235a87c84f}
+      \strng{bibnamehash}{0f6be4ddb8f566623547aa235a87c84f}
+      \strng{authorbibnamehash}{0f6be4ddb8f566623547aa235a87c84f}
+      \strng{authornamehash}{0f6be4ddb8f566623547aa235a87c84f}
+      \strng{authorfullhash}{0f6be4ddb8f566623547aa235a87c84f}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Network Security}
+      \field{month}{07}
+      \field{title}{DDoS attack evolution}
+      \field{volume}{2008}
+      \field{year}{2008}
+      \field{pages}{7\bibrangedash 10}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1016/S1353-4858(08)70086-2
+      \endverb
+    \endentry
+    \entry{a10networksLargestReported}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=d39ee26c2c0f990c0d92b6daf97b5010}{%
+           family={Nicholson},
+           familyi={N\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{d39ee26c2c0f990c0d92b6daf97b5010}
+      \strng{fullhash}{d39ee26c2c0f990c0d92b6daf97b5010}
+      \strng{bibnamehash}{d39ee26c2c0f990c0d92b6daf97b5010}
+      \strng{authorbibnamehash}{d39ee26c2c0f990c0d92b6daf97b5010}
+      \strng{authornamehash}{d39ee26c2c0f990c0d92b6daf97b5010}
+      \strng{authorfullhash}{d39ee26c2c0f990c0d92b6daf97b5010}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.a10networks.com/blog/aws-hit-by-largest-reported-ddos-attack-of-2-3-tbps/}}
+      \field{note}{[Accessed 20-06-2024]}
+      \field{title}{{A}{W}{S} hit by {L}argest {R}eported {D}{D}o{S} {A}ttack of 2.3 {T}bps | {A}10 {N}etworks --- a10networks.com}
+    \endentry
+    \entry{amazonManagedDDoS}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=4d7e5f784bb5801c23c91ba37ed2649d}{%
+           family={Services},
+           familyi={S\bibinitperiod},
+           given={Amazon\bibnamedelima Web},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{4d7e5f784bb5801c23c91ba37ed2649d}
+      \strng{fullhash}{4d7e5f784bb5801c23c91ba37ed2649d}
+      \strng{bibnamehash}{4d7e5f784bb5801c23c91ba37ed2649d}
+      \strng{authorbibnamehash}{4d7e5f784bb5801c23c91ba37ed2649d}
+      \strng{authornamehash}{4d7e5f784bb5801c23c91ba37ed2649d}
+      \strng{authorfullhash}{4d7e5f784bb5801c23c91ba37ed2649d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://aws.amazon.com/shield/features}}
+      \field{note}{[Accessed 20-06-2024]}
+      \field{title}{{M}anaged {D}{D}o{S} protection – {A}{W}{S} {S}hield {F}eatures – {A}mazon {W}eb {S}ervices --- aws.amazon.com}
+    \endentry
+    \entry{radwareShieldSquareCaptcha}{misc}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.radware.com/cyberpedia/ddospedia/ddos-meaning-what-is-ddos-attack}}
+      \field{note}{[Accessed 20-06-2024]}
+      \field{title}{{S}hield{S}quare {C}aptcha --- radware.com}
+    \endentry
+    \entry{a10networksDDoSAttack}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b231fe3e1437ed8a55d67b62dcba374f}{%
+           family={Staff},
+           familyi={S\bibinitperiod},
+           given={A10},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b231fe3e1437ed8a55d67b62dcba374f}
+      \strng{fullhash}{b231fe3e1437ed8a55d67b62dcba374f}
+      \strng{bibnamehash}{b231fe3e1437ed8a55d67b62dcba374f}
+      \strng{authorbibnamehash}{b231fe3e1437ed8a55d67b62dcba374f}
+      \strng{authornamehash}{b231fe3e1437ed8a55d67b62dcba374f}
+      \strng{authorfullhash}{b231fe3e1437ed8a55d67b62dcba374f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.a10networks.com/blog/ddos-attack-prevention-and-ddos-protection-best-practices/}}
+      \field{note}{[Accessed 20-06-2024]}
+      \field{title}{{D}{D}o{S} {A}ttack {P}revention and {D}{D}o{S} {P}rotection {B}est {P}ractices | {A}10 {N}etworks --- a10networks.com}
+    \endentry
+    \entry{syn_flood_attack}{misc}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.cloudflare.com/learning/ddos/syn-flood-ddos-attack/}}
+      \field{note}{[Accessed 20-06-2024]}
+      \field{title}{{S}{Y}{N} flood attack}
+    \endentry
+    \entry{history_of_ddos}{misc}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.senki.org/ddos-attack-preparation-workbook/history-of-denial-of-services-dos-attacks/}}
+      \field{note}{[Accessed 20-06-2024]}
+      \field{title}{{T}he {H}istory of {D}{D}o{S} and {D}o{S}}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
