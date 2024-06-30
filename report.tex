@@ -11,7 +11,7 @@
 \usepackage{tocloft} % used to add spaces before table of contents
 \usepackage[sorting=none]{biblatex} % package used to add bibliographies
 \usepackage[margin=1in]{geometry} % package used to change the margins
-
+\usepackage[hidelinks]{hyperref} % package used to add hyperlinks to the document
 
 
 \setstretch{1.5} % setting the spacing between the lines to 1.5
@@ -126,6 +126,8 @@
                 \label{fig:ddos_evolution}
             \end{figure}
 
+            
+
             \subsection{Literature Review}
 
             \begin{spacing}{1}
@@ -146,7 +148,8 @@
                     \end{tabularx}
                 \end{table}
             \end{spacing}
-
+        
+        \pagebreak
 
         \section{Types and Mechanisms}
         To prevent these attacks, we must understand and distinguish between the different types of denial of service attacks within the three main categories: volumetric, protocol, and application. However, some attacks fall outside these categories. Attackers may use a combination of techniques to make their attacks more sophisticated.
